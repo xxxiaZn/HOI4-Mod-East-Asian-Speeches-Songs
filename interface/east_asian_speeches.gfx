@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "east_asian_speeches_cover"
+		textureFile = "gfx/east_asian_speeches.dds"
+		noOfFrames = 2
+	}
+}

@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "roc_cover"
+		textureFile = "gfx/roc.dds"
+		noOfFrames = 2
+	}
+}

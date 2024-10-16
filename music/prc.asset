@@ -1,0 +1,32 @@
+music = {
+	name = "defend_the_yellow_river"
+	file = "prc/defend_the_yellow_river.ogg"
+}
+music = {
+	name = "red_sun_in_the_sky"
+	file = "prc/red_sun_in_the_sky.ogg"
+}
+music = {
+	name = "military_and_civilian_mass_production"
+	file = "prc/military_and_civilian_mass_production.ogg"
+}
+music = {
+	name = "without_the_communist_party_there_would_be_no_new_china"
+	file = "prc/without_the_communist_party_there_would_be_no_new_china.ogg"
+}
+music = {
+	name = "nanniwan"
+	file = "prc/nanniwan.ogg"
+}
+music = {
+	name = "socialism_is_good"
+	file = "prc/socialism_is_good.ogg"
+}
+music = {
+	name = "song_of_the_new_fourth_army"
+	file = "prc/song_of_the_new_fourth_army.ogg"
+}
+music = {
+	name = "tunnel_warfare"
+	file = "prc/tunnel_warfare.ogg"
+}

@@ -1,0 +1,1111 @@
+music_station = "roc_music_station"
+music = {
+	song = "plum_bossom"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "national_anthem_of_the_republic_of_china"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "flag_anthem"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "struggling_in_the_southeast_instrumental"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "ode_to_the_republic_of_china"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "march_of_plum_blossom"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "dreaming_of_camel_bells"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "bloodshed_yellow_flower"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "li_ge"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "crabapple_blood_and_tears"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "19th_route_army"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "the_discolored_great_wall"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "along_the_songhua_river"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "dance_of_youth"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "founding_father_memorial_song"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "the_wandering_songstress"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "graduation_song"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "huben_hurray"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "march_of_the_volunteers"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "orphans_of_asia"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "songbie"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "struggling_in_the_southeast"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "ambitions_to_the_sky"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "the_evening_primrose"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "the_great_wall_ballad"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "heart_of_steel"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "the_patriotic_song"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "night_raid"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "xizi_girl"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "ye_shanghai"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "descendants_of_the_dragon"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "i_have_a_rifle"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "gongxi_gongxi"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "the_eternal_august_14th"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "when_will_you_return"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "flowers_and_boys"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}
+music = {
+	song = "dadao_march"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = CHI
+					original_tag = PRC
+					original_tag = SHX				
+					original_tag = XSM
+					original_tag = YUN
+					original_tag = GXC
+				}
+			}
+		}	
+		modifier = {
+			factor = 4
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = SHX				
+				original_tag = XSM
+				original_tag = YUN
+				original_tag = GXC
+			}
+		}
+	}
+}

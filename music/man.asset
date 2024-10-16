@@ -1,0 +1,28 @@
+music = {
+	name = "manchu_musume"
+	file = "man/manchu_musume.ogg"
+}
+music = {
+	name = "cup_of_solid_gold"
+	file = "man/cup_of_solid_gold.ogg"
+}
+music = {
+	name = "national_anthem_of_manchukuo_1942-1945"
+	file = "man/national_anthem_of_manchukuo_1942-1945.ogg"
+}
+music = {
+	name = "the_last_emperor_main_title_theme"
+	file = "man/the_last_emperor_main_title_theme.ogg"
+}
+music = {
+	name = "anthem_of_the_south_manchuria_railway_company"
+	file = "man/anthem_of_the_south_manchuria_railway_company.ogg"
+}
+music = {
+	name = "national_anthem_of_manchukuo_1933-1942"
+	file = "man/national_anthem_of_manchukuo_1933-1942.ogg"
+}
+music = {
+	name = "where_is_armo"
+	file = "man/where_is_armo.ogg"
+}

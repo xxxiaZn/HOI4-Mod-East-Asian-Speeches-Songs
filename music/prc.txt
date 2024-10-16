@@ -1,0 +1,129 @@
+music_station = "prc_music_station"
+music = {
+	song = "defend_the_yellow_river"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}
+music = {
+	song = "red_sun_in_the_sky"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}
+music = {
+	song = "military_and_civilian_mass_production"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}
+music = {
+	song = "without_the_communist_party_there_would_be_no_new_china"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}
+music = {
+	song = "nanniwan"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}
+music = {
+	song = "socialism_is_good"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}
+music = {
+	song = "song_of_the_new_fourth_army"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}
+music = {
+	song = "tunnel_warfare"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = PRC
+			}
+		}	
+		modifier = {
+			factor = 4
+			original_tag = PRC
+		}
+	}
+}

@@ -1,0 +1,301 @@
+music_station = "jap_music_station"
+music = {
+	song = "hotaru_no_hikari"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "doki_no_sakura"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "genko"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "gunkan_koshinkyoku"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "battotai"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "hokushi_hakengun_no_uta"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "anthem_of_the_kwantung_army"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "manshu_musume"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "nanshi_hakengun_no_uta"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "ode_of_showa_restoration"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "specialty_of_infantry"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "i_hate_these_classes"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}

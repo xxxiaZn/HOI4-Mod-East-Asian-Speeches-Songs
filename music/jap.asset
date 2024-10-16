@@ -1,0 +1,48 @@
+music = {
+	name = "hotaru_no_hikari"
+	file = "jap/hotaru_no_hikari.ogg"
+}
+music = {
+	name = "doki_no_sakura"
+	file = "jap/doki_no_sakura.ogg"
+}
+music = {
+	name = "genko"
+	file = "jap/genko.ogg"
+}
+music = {
+	name = "gunkan_koshinkyoku"
+	file = "jap/gunkan_koshinkyoku.ogg"
+}
+music = {
+	name = "battotai"
+	file = "jap/battotai.ogg"
+}
+music = {
+	name = "hokushi_hakengun_no_uta"
+	file = "jap/hokushi_hakengun_no_uta.ogg"
+}
+music = {
+	name = "anthem_of_the_kwantung_army"
+	file = "jap/anthem_of_the_kwantung_army.ogg"
+}
+music = {
+	name = "manshu_musume"
+	file = "jap/manshu_musume.ogg"
+}
+music = {
+	name = "nanshi_hakengun_no_uta"
+	file = "jap/nanshi_hakengun_no_uta.ogg"
+}
+music = {
+	name = "ode_of_showa_restoration"
+	file = "jap/ode_of_showa_restoration.ogg"
+}
+music = {
+	name = "specialty_of_infantry"
+	file = "jap/specialty_of_infantry.ogg"
+}
+music = {
+	name = "i_hate_these_classes"
+	file = "jap/i_hate_these_classes.ogg"
+}

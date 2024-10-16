@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "jap_cover"
+		textureFile = "gfx/jap.dds"
+		noOfFrames = 2
+	}
+}

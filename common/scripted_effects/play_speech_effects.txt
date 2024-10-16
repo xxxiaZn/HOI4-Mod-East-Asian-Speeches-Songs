@@ -1,0 +1,9 @@
+play_chiang_kai-sheks_victory_speech_effect = {
+	hidden_effect = { play_song = "chiang_kai-sheks_victory_speech" } 
+}
+play_jewel_voice_broadcast_effect = {
+	hidden_effect = { play_song = "jewel_voice_broadcast" } 
+}
+play_proclamation_of_the_peoples_republic_of_china_effect = {
+	hidden_effect = { play_song = "proclamation_of_the_peoples_republic_of_china" } 
+}

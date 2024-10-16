@@ -1,0 +1,25 @@
+music_station = "east_asian_speeches_station"
+music = {
+	song = "chiang_kai-sheks_victory_speech"
+	chance = { factor = 0 }
+}
+music = {
+	song = "jewel_voice_broadcast"
+	chance = { factor = 0 }
+}
+music = {
+	song = "two_questions_speech"
+	chance = { factor = 0 }
+}
+music = {
+	song = "proclamation_of_the_peoples_republic_of_china"
+	chance = { factor = 0 }
+}
+music = {
+	song = "declaration_of_war_against_america"
+	chance = { factor = 0 }
+}
+music = {
+	song = "address_by_madame_chiang_to_american_congress"
+	chance = { factor = 0 }
+}

@@ -1,0 +1,24 @@
+music = {
+	name = "chiang_kai-sheks_victory_speech"
+	file = "east_asian_speeches/chiang_kai-sheks_victory_speech.ogg"
+}
+music = {
+	name = "jewel_voice_broadcast"
+	file = "east_asian_speeches/jewel_voice_broadcast.ogg"
+}
+music = {
+	name = "two_questions_speech"
+	file = "east_asian_speeches/two_questions_speech.ogg"
+}
+music = {
+	name = "proclamation_of_the_peoples_republic_of_china"
+	file = "east_asian_speeches/proclamation_of_the_peoples_republic_of_china.ogg"
+}
+music = {
+	name = "declaration_of_war_against_america"
+	file = "east_asian_speeches/declaration_of_war_against_america.ogg"
+}
+music = {
+	name = "address_by_madame_chiang_to_american_congress"
+	file = "east_asian_speeches/address_by_madame_chiang_to_american_congress.ogg"
+}

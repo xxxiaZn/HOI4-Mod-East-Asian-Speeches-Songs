@@ -1,0 +1,150 @@
+music_station = "man_music_station"
+music = {
+	song = "manchu_musume"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "cup_of_solid_gold"
+	chance = {
+		factor = 0
+	}
+}
+music = {
+	song = "national_anthem_of_manchukuo_1942-1945"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "the_last_emperor_main_title_theme"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = MAN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = MAN
+			}
+		}
+	}
+}
+music = {
+	song = "anthem_of_the_south_manchuria_railway_company"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "national_anthem_of_manchukuo_1944-1942"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = JAP
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = JAP
+				original_tag = MAN
+				original_tag = MEN
+			}
+		}
+	}
+}
+music = {
+	song = "where_is_armo"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = MAN
+					original_tag = MEN
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 5
+			OR = {
+				original_tag = MAN
+			}
+		}
+	}
+}

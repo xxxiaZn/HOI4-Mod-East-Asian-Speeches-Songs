@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "man_cover"
+		textureFile = "gfx/man.dds"
+		noOfFrames = 2
+	}
+}
